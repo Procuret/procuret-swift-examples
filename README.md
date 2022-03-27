@@ -1,7 +1,7 @@
 # ProcuretAPI Examples
 
 A set of example Swift
-[https://github.com/Procuret/procuret-swift](Procuret API) objects. Example
+[Procuret API](https://github.com/Procuret/procuret-swift) objects. Example
 objects may be useful in situations where asynchronous retrieval of data
 introduces development friction. For example, in SwiftUI Previews of views
 dealing in Procuret API objects.
