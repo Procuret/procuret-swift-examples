@@ -57,6 +57,8 @@ extension Entity: ProvidesExample {
         "entity_type": 1,
         "industry_identifiers": null,
         "is_trust": null,
+        "has_business_record": true,
+        "has_supplier_record": false,
         "legal_entity_name": "QSHM INTERNATIONAL PTY LTD",
         "modified": "2022-03-25 06:01:52.971710",
         "phone_number": null,
