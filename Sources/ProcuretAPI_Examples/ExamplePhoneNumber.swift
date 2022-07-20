@@ -11,7 +11,7 @@ import ProcuretAPI
 
 extension PhoneNumber: ProvidesExample {
     
-    public static var exampleJson: String = """
+    public static let exampleJson: String = """
 {
     "indexid": 42,
     "digits": +61425127421
