@@ -15,13 +15,12 @@ extension Entity: ProvidesExample {
     {
         "business_address": {
             "country": {
-                "country_name": "Australia",
-                "indexid": 1,
+                "country_id": 1,
                 "iso_3166_a2": "AU",
-                "iso_3166_a3": "AUS"
+                "iso_3166_a3": "AUS",
+                "name": "Australia"
             },
             "created": "2022-03-25 06:01:52.971710",
-            "indexid": 529,
             "line_1": "47 Brighton Rd",
             "line_2": null,
             "line_3": null,
