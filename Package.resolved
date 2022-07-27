@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "procuret-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Procuret/procuret-swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c747fe78e64d4d61ea875beaaa46eccc04cabf34"
+      }
+    }
+  ],
+  "version" : 2
+}

@@ -32,7 +32,7 @@ extension Entity: ProvidesExample {
                 "abbreviation": "QLD",
                 "country_id": 1,
                 "indexid": 3,
-                "region_name": "Queensland"
+                "name": "Queensland"
             }
         },
         "created": "2022-03-25 06:01:52.971710",
