@@ -14,7 +14,7 @@ extension PhoneNumber: ProvidesExample {
     public static let exampleJson: String = """
 {
     "indexid": 42,
-    "digits": +61425127421
+    "digits": "+61425127421"
 }
 """
 
