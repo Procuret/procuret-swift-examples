@@ -1,12 +1,12 @@
-// swift-tools-version: 5.6
+// swift-tools-version:5.7
 
 import PackageDescription
 
 let package = Package(
     name: "ProcuretAPI_Examples",
     platforms: [
-        .macOS(.v11),
-        .iOS(.v14)
+        .macOS(.v12),
+        .iOS(.v16)
     ],
     products: [
         .library(
