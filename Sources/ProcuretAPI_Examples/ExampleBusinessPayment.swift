@@ -39,35 +39,6 @@ extension BusinessPayment: ProvidesExample {
             "transaction_id": "NDMHRwcwHzTm",
             "transaction_type": 2
         }
-    },
-    {
-        "amount": {
-            "denomination": {
-                "exponent": 2,
-                "indexid": 1,
-                "iso_4217": "AUD",
-                "name": "Australian Dollar",
-                "symbol": "$"
-            },
-            "magnitude": "52.25"
-        },
-        "created": "2023-03-02 18:39:52.317803",
-        "disposition": {
-            "count": 2,
-            "limit": 20,
-            "offset": 0,
-            "sequence": 2
-        },
-        "executed": "2023-03-01 20:16:50.000000",
-        "payment_method": {
-            "description": "Card ...4242",
-            "public_id": "w3C0m7D3vKmN"
-        },
-        "public_id": "txxB06e6dLYY",
-        "related_transaction": {
-            "transaction_id": "12ZRMix0hJuU",
-            "transaction_type": 2
-        }
     }
 """
 }
