@@ -65,7 +65,10 @@ extension PaymentSeries: ProvidesExample {
                 "symbol": "$"
             },
             "magnitude": "312.00"
-        }
+        },
+        "completed": false,
+        "oldest_unpaid_instalment_due_24hrs_starting": null,
+        "commitment_id": "d19v010sCckjACK"
     }
     """
     
