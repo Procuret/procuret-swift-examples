@@ -81,6 +81,7 @@ extension InstalmentSchedule: ProvidesExample {
                     },
                     "due_24hrs_starting": "2022-10-01 04:00:00.000000",
                     "interest_paid": "3.21",
+                    "is_bespoke": false,
                     "nominal_payment": "7.31",
                     "opening_balance": "192.69",
                     "payment": null,
