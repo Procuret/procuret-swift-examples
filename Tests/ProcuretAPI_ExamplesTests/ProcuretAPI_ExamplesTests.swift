@@ -16,6 +16,7 @@ final class ProcuretAPI_ExamplesTests: XCTestCase {
         XCTAssert(PaymentSeries.example.completed == false)
         XCTAssert(Business.example.entity.publicId != 0)
         XCTAssert(Supplier.example.entity.publicId != 0)
+        XCTAssert(InstalmentLink.example.publicId != "hello")
     
         return
 
