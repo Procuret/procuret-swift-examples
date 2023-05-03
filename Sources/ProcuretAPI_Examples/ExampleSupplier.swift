@@ -72,8 +72,17 @@ extension Supplier: ProvidesExample {
             "offset": 0,
             "sequence": 1
         },
-        "entity_identifiers": [],
-        "entity_type": null,
+        "entity_identifiers": [
+            {
+                "id": "607327006",
+                "id_type": 2
+            },
+            {
+                "id": "45607327006",
+                "id_type": 1
+            }
+        ],
+        "entity_type": 1,
         "has_business_record": false,
         "has_supplier_record": true,
         "industry_identifiers": [],

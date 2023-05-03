@@ -15,6 +15,7 @@ final class ProcuretAPI_ExamplesTests: XCTestCase {
         XCTAssert(Supplier.example.defaultDenomination != .NZD)
         XCTAssert(PaymentSeries.example.completed == false)
         XCTAssert(Business.example.entity.publicId != 0)
+        XCTAssert(Supplier.example.entity.publicId != 0)
     
         return
 
