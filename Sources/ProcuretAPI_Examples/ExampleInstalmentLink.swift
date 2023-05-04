@@ -23,6 +23,7 @@ extension InstalmentLink: ProvidesExample {
     },
     "invitee_email": "hugh@procuret-test-domain.org",
     "invitee_phone": null,
+    "invitee_phone_digits": "+61419000000",
     "invoice_amount": "420",
     "invoice_identifier": "PSL TEST 001",
     "opens": [],
