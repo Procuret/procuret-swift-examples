@@ -195,7 +195,13 @@ extension Supplier: ProvidesExample {
             "supplier_entity_id": 4000
         }
     ],
-    "transaction_count": 119
+    "transaction_count": 119,
+    "country": {
+        "country_id": 1,
+        "iso_3166_a2": "AU",
+        "iso_3166_a3": "AUS",
+        "name": "Australia"
+    }
 }
 """
     
