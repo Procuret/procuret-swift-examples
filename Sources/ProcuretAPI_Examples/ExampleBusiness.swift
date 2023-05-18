@@ -21,6 +21,7 @@ extension Business: ProvidesExample {
                     "name": "Australia"
                 },
                 "created": "2022-03-25 06:01:52.971710",
+                "public_id": "examplePublicId",
                 "line_1": "47 Brighton Rd",
                 "line_2": null,
                 "line_3": null,

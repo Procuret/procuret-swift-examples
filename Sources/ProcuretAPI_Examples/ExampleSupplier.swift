@@ -50,6 +50,7 @@ extension Supplier: ProvidesExample {
                 "name": "Australia"
             },
             "created": "2020-09-14 20:36:15.969394",
+            "public_id": "examplePublicId",
             "line_1": "3/302 St Johns Rd",
             "line_2": null,
             "line_3": null,

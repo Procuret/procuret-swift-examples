@@ -41,6 +41,7 @@ extension Human: ProvidesExample {
                 "name": "Australia"
             },
             "created": "2021-09-06 05:17:42.066928",
+            "public_id": "examplePublicId",
             "line_1": "44 Bridge St",
             "line_2": null,
             "line_3": null,

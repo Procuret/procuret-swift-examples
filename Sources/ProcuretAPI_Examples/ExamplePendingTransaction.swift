@@ -42,6 +42,7 @@ extension PendingSeries: ProvidesExample {
                         "name": "Australia"
                     },
                     "created": "2023-03-01 20:16:26.174295",
+                    "public_id": "examplePublicId",
                     "line_1": "86 Whitmore St",
                     "line_2": null,
                     "line_3": null,
