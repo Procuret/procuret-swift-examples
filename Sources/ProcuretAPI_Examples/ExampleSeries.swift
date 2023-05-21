@@ -67,6 +67,7 @@ extension PaymentSeries: ProvidesExample {
             "magnitude": "312.00"
         },
         "completed": false,
+        "allows_self_serve_payments": true,
         "oldest_unpaid_instalment_due_24hrs_starting": null,
         "commitment_id": "d19v010sCckjACK"
     }
