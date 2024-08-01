@@ -67,7 +67,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "7.31",
                     "sequence": 1,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "7.31"
                 },
                 {
                     "closing_balance": "188.59",
@@ -89,7 +90,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.10",
                     "sequence": 2,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "184.42",
@@ -111,7 +113,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.17",
                     "sequence": 3,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "180.18",
@@ -133,7 +136,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.24",
                     "sequence": 4,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "175.87",
@@ -155,7 +159,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.31",
                     "sequence": 5,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "171.49",
@@ -177,7 +182,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.38",
                     "sequence": 6,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "167.04",
@@ -199,7 +205,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.45",
                     "sequence": 7,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "162.51",
@@ -221,7 +228,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.53",
                     "sequence": 8,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "157.91",
@@ -243,7 +251,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.60",
                     "sequence": 9,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "153.23",
@@ -265,7 +274,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.68",
                     "sequence": 10,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "148.47",
@@ -287,7 +297,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.76",
                     "sequence": 11,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "143.63",
@@ -309,7 +320,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.84",
                     "sequence": 12,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "138.71",
@@ -331,7 +343,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "4.92",
                     "sequence": 13,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "133.71",
@@ -353,7 +366,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.00",
                     "sequence": 14,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "128.63",
@@ -375,7 +389,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.08",
                     "sequence": 15,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "123.46",
@@ -397,7 +412,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.17",
                     "sequence": 16,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "118.21",
@@ -419,7 +435,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.25",
                     "sequence": 17,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "112.87",
@@ -441,7 +458,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.34",
                     "sequence": 18,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "107.44",
@@ -463,7 +481,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.43",
                     "sequence": 19,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "101.92",
@@ -485,7 +504,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.52",
                     "sequence": 20,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "96.31",
@@ -507,7 +527,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.61",
                     "sequence": 21,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "90.61",
@@ -529,7 +550,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.70",
                     "sequence": 22,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "84.81",
@@ -551,7 +573,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.80",
                     "sequence": 23,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "78.91",
@@ -573,7 +596,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.90",
                     "sequence": 24,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "72.92",
@@ -595,7 +619,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "5.99",
                     "sequence": 25,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "66.83",
@@ -617,7 +642,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.09",
                     "sequence": 26,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "60.63",
@@ -639,7 +665,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.20",
                     "sequence": 27,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "54.33",
@@ -661,7 +688,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.30",
                     "sequence": 28,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "47.93",
@@ -683,7 +711,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.40",
                     "sequence": 29,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "41.42",
@@ -705,7 +734,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.51",
                     "sequence": 30,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "34.80",
@@ -727,7 +757,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.62",
                     "sequence": 31,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "28.07",
@@ -749,7 +780,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.73",
                     "sequence": 32,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "21.23",
@@ -771,7 +803,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.84",
                     "sequence": 33,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "14.27",
@@ -793,7 +826,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "6.96",
                     "sequence": 34,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "7.20",
@@ -815,7 +849,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.00",
                     "principal_paid": "7.07",
                     "sequence": 35,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 },
                 {
                     "closing_balance": "0.00",
@@ -837,7 +872,8 @@ extension InstalmentSchedule: ProvidesExample {
                     "principal_discount": "0.01",
                     "principal_paid": "7.19",
                     "sequence": 36,
-                    "unresolved_prolonged_payment": null
+                    "unresolved_prolonged_payment": null,
+                    "paid": "0"
                 }
             ],
             "series_id": "uiK3ihKJvYtw",
